@@ -11,8 +11,8 @@
 
 ## AUTHORIZED USER REQUIREMENTS
 1. Should be able to make comments: 
-* when making a comment, should be able to input school and course code 
-* when making a comment, should be able to give a difficulty score of the course.
+* when making a comment, he/she should be able to input school and course code 
+* when making a comment, he/she should be able to give a difficulty score of the course.
 * when making a comment, he/she should be able to write a comment on experience with the course
 * when making a comment, he/she should be able to give an overall score for that course.
 * when making a comment, he/she should be able to add the professor that taught the course.
