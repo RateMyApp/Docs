@@ -30,4 +30,4 @@
 
 ## DB SCHEMA
 Below is the designed database schema for this project
-![My Image1] (DB_Schema.jpg)
+[My Image](DB_Schema.jpg)
