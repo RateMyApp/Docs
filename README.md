@@ -27,3 +27,6 @@
 3. School
 4. Course
 5. Teacher (In review)
+
+## DB SCHEMA
+Below is the designed database schema for this project
